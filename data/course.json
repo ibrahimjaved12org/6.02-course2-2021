@@ -1,0 +1,38 @@
+{
+  "term": "Spring",
+  "year": "2021",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Accounting"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "course2"
+  },
+  "course_image": {
+    "content": "",
+    "website": "course2"
+  },
+  "course_title": "course2",
+  "course_description": "101-course\\_test-1-2021",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "102",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "course2"
+  },
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "71fc4f70-9a4d-4773-b9da-1aa00c4eecda",
+  "site_short_id": "6.02-course2-2021"
+}
